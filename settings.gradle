@@ -1,1 +1,1 @@
-include ':app', ':histogramview-master'
+include ':example', ':histogramview-master'

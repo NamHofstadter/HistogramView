@@ -122,11 +122,6 @@ public class HistogramView extends View {
         canvas.drawRoundRect(r3, corner, corner, paint1);
         canvas.drawRoundRect(r4, corner, corner, paint1);
         canvas.drawRoundRect(r5, corner, corner, paint1);
-        /*canvas.drawRect(r1, paint1);
-        canvas.drawRect(r2, paint1);
-        canvas.drawRect(r3, paint1);
-        canvas.drawRect(r4, paint1);
-        canvas.drawRect(r5, paint1);*/
     }
 
 }

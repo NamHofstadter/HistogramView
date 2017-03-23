@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:his="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    tools:context="com.jcenterviews.namhofstadter.histogramview.MainActivity">
+
+    <com.jcenterviews.namhofstadter.histogramview_master.HistogramView
+        android:id="@+id/histoGramView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        his:rectColor = "#ff0"
+        his:space = "0.3"
+        his:corner = "15"
+        />
+
+</RelativeLayout>
