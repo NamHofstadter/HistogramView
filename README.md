@@ -34,7 +34,8 @@
     histogramView.change_Status(true);//开启波动
 ```
   2>.代码控制属性
+```java
 待完善
-  
+```
   
   
