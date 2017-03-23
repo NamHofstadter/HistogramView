@@ -2,7 +2,7 @@
 ## 1.简要介绍
   这是一个简单的自定义控件,主要是用来跟随音乐的播放状态,来进行柱状图的波动
   默认样式
-  ![image](https://github.com/NamHofstadter/HistogramView/blob/master/app/libs/jdfw.gif)
+  ![image](https://github.com/NamHofstadter/HistogramView/blob/master/example/libs/jdfw.gif)
 ## 2.使用步骤
 #### 1.添加依赖
    ```xml
